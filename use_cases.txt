@@ -1,0 +1,21 @@
+Case 1 — Search Oscar winners
+
+Goal: Users want to find winners by category and year.
+
+CQ examples:
+
+Who won Best Actor in 1995?
+
+Which films won in 2001?
+
+
+
+Case 2 — Analyze nominations by film
+
+Goal: Analyze how many nominations each film received.
+
+CQ:
+
+How many nominations did Titanic receive?
+
+Which films have the most nominations?

@@ -1,0 +1,27 @@
+﻿Identifier;"Competency Question /
+ Natural language sentence (fact)";Answer (For Competency Questions);Status (Proposed, Accepted, Rejected, Deprecated);Comments (optional);Extracted from (provenance);Relation with other requirements (optional);Associated ontology elements (to be used after ontology  conceptualization assignment)
+1;Which films were nominated?       ;Children of a Lesser God, Hannah and Her Sisters, The Mission;Accepted;;https://www.kaggle.com/datasets/unanimad/the-oscar-award;;
+2;Who was nominated?   ;Fernando Ghia and David Puttnam, Producers;Accepted;;https://www.kaggle.com/datasets/unanimad/the-oscar-award;;
+3; In which ceremony was the award given?;59;Accepted;;https://www.kaggle.com/datasets/unanimad/the-oscar-award;;
+4;What categories exist?;SHORT FILM (Live Action), ACTOR IN A LEADING ROLE, ACTRESS IN A LEADING ROLE;Accepted;;https://www.kaggle.com/datasets/unanimad/the-oscar-award;;
+5;Which nominations occurred?;Charles Guggenheim, Werner Schumann;Accepted;;https://www.kaggle.com/datasets/unanimad/the-oscar-award;;
+6;Who won the award? ;John G. Avildsen, Producer;Accepted;;https://www.kaggle.com/datasets/unanimad/the-oscar-award;;
+7;Which person is associated with which film?;Francis Ford Coppola, Producer with The Godfather, Part III;Accepted;;https://www.kaggle.com/datasets/unanimad/the-oscar-award;;
+8;In what category was the nomination?;BEST PICTURE;Accepted;;https://www.kaggle.com/datasets/unanimad/the-oscar-award;;
+9;When was the ceremony held?;1990;Accepted;;https://www.kaggle.com/datasets/unanimad/the-oscar-award;;
+10;Can each entity be uniquely identified?;Yes;Accepted;;https://www.kaggle.com/datasets/unanimad/the-oscar-award;;
+11;Which external ontologies are reused?;;Accepted;;https://www.kaggle.com/datasets/unanimad/the-oscar-award;;
+12;Can both datasets be merged? ;Yes;Accepted;;https://www.kaggle.com/datasets/unanimad/the-oscar-award;;
+13; What is the canonical category? ;MAKEUP AND HAIRSTYLING;Accepted;;https://www.kaggle.com/datasets/unanimad/the-oscar-award;;
+14;Are there multiple nominees?;Yes;Accepted;;https://www.kaggle.com/datasets/unanimad/the-oscar-award;;
+15;What is the identifier of each film?;tt0099674;Accepted;;https://www.kaggle.com/datasets/unanimad/the-oscar-award;;
+16; What is the identifier of each nominee?;nm0000338;Accepted;;https://www.kaggle.com/datasets/unanimad/the-oscar-award;;
+17;Are there notes for nominations?;No;Rejected;;https://www.kaggle.com/datasets/unanimad/the-oscar-award;;
+18; Is there citation information?;No;Rejected;;https://www.kaggle.com/datasets/unanimad/the-oscar-award;;
+19;Is the nomination for multiple films? ;Yes;Accepted;;https://www.kaggle.com/datasets/unanimad/the-oscar-award;;
+20;Can users query winners by year?;Yes;Accepted;;https://www.kaggle.com/datasets/unanimad/the-oscar-award;;
+21;What awards were given in a year?;ACTOR IN A LEADING ROLE;Accepted;;https://www.kaggle.com/datasets/unanimad/the-oscar-award;;
+22;Who won Best Actor?;Emil Jannings;Accepted;;https://www.kaggle.com/datasets/unanimad/the-oscar-award;;
+23;Can other systems reuse the data?;Yes;Accepted;;https://www.kaggle.com/datasets/unanimad/the-oscar-award;;
+24;Can new awards be added?;Yes;Accepted;;https://www.kaggle.com/datasets/unanimad/the-oscar-award;;
+25;From which dataset does the data come?;https://www.kaggle.com/datasets/unanimad/the-oscar-award;Accepted;;https://www.kaggle.com/datasets/unanimad/the-oscar-award;;
