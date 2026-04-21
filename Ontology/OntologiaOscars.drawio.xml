@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="zJ2MYNs88ZGI_-eo9vhJ">
+    <mxGraphModel dx="2115" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xBXxck6MyoHdiVpODAMP-35" edge="1" parent="1" source="xBXxck6MyoHdiVpODAMP-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="xBXxck6MyoHdiVpODAMP-3" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="295" as="sourcePoint" />
+            <mxPoint x="200" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xBXxck6MyoHdiVpODAMP-40" connectable="0" parent="xBXxck6MyoHdiVpODAMP-35" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="oscar:isNominatedforMovie" vertex="1">
+          <mxGeometry relative="1" x="0.009" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xBXxck6MyoHdiVpODAMP-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];" value="schema:Movie" vertex="1">
+          <mxGeometry height="30" width="119.5" x="-60" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="xBXxck6MyoHdiVpODAMP-24" edge="1" parent="1" source="xBXxck6MyoHdiVpODAMP-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="xBXxck6MyoHdiVpODAMP-23" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="279.66666666666663" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xBXxck6MyoHdiVpODAMP-25" connectable="0" parent="xBXxck6MyoHdiVpODAMP-24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="oscar:plays" vertex="1">
+          <mxGeometry relative="1" x="-0.0136" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xBXxck6MyoHdiVpODAMP-9" edge="1" parent="1" source="xBXxck6MyoHdiVpODAMP-28" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endSize=8;arcSize=0;rounded=0;exitX=1;exitY=0.9;exitDx=0;exitDy=0;" target="xBXxck6MyoHdiVpODAMP-14" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="200" y="182" as="sourcePoint" />
+            <mxPoint x="340.0000000000002" y="185.00000000000023" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xBXxck6MyoHdiVpODAMP-10" connectable="0" parent="xBXxck6MyoHdiVpODAMP-9" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" value="oscar:includesCategory" vertex="1">
+          <mxGeometry relative="1" x="-0.1269" as="geometry">
+            <mxPoint x="4.17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xBXxck6MyoHdiVpODAMP-13" edge="1" parent="1" source="xBXxck6MyoHdiVpODAMP-33" style="endArrow=block;html=1;fontColor=#000099;exitX=0.547;exitY=-0.081;exitDx=0;exitDy=0;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endSize=8;arcSize=0;rounded=0;exitPerimeter=0;" target="xBXxck6MyoHdiVpODAMP-14" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="340" y="250" as="sourcePoint" />
+            <mxPoint x="412.9999999999893" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xBXxck6MyoHdiVpODAMP-22" connectable="0" parent="xBXxck6MyoHdiVpODAMP-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="oscar:hasCategory" vertex="1">
+          <mxGeometry relative="1" x="-0.2909" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xBXxck6MyoHdiVpODAMP-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];" value="oscar:Category" vertex="1">
+          <mxGeometry height="30" width="100" x="280" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="xBXxck6MyoHdiVpODAMP-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];" value="oscar:Character" vertex="1">
+          <mxGeometry height="30" width="100" x="619.5" y="155" as="geometry" />
+        </mxCell>
+        <mxCell id="xBXxck6MyoHdiVpODAMP-26" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" value="&lt;div&gt;&lt;b&gt;oscar: http://purl.org/oscar/ontology#&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;schema: https://schema.org/&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;dbo: http://dbpedia.org/ontology/&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;foaf: https://xmlns.com/spec/&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;xsd: http://www.w3.org/2001/XMLSchema#&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="530" x="30" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="xBXxck6MyoHdiVpODAMP-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];" value="oscar:year xsd:date" vertex="1">
+          <mxGeometry height="30" width="179" x="-80" y="184.9999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="xBXxck6MyoHdiVpODAMP-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];" value="Schema:Event" vertex="1">
+          <mxGeometry height="30" width="179" x="-80" y="154.9999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="xBXxck6MyoHdiVpODAMP-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];" value="oscar:birthPlace xsd:string&lt;div&gt;schema:birthDate xsd:date&lt;br&gt;&lt;div&gt;dbo:race xsd:string&lt;/div&gt;&lt;div&gt;dbo:religion xsd:string&lt;/div&gt;&lt;div&gt;dbo:sexualOrientation xsd:string&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="179" x="580" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="xBXxck6MyoHdiVpODAMP-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];" value="foaf:Person" vertex="1">
+          <mxGeometry height="30" width="179" x="580" y="279.9999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="xBXxck6MyoHdiVpODAMP-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];" value="oscar:isWinner xsd:boolean&lt;div&gt;oscar:isMultifilm xsd:boolean&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="179" x="235" y="309.9999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="xBXxck6MyoHdiVpODAMP-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];" value="oscar:Nomination" vertex="1">
+          <mxGeometry height="30" width="179" x="235" y="279.9999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="xBXxck6MyoHdiVpODAMP-36" edge="1" parent="1" source="xBXxck6MyoHdiVpODAMP-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="xBXxck6MyoHdiVpODAMP-31" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="294.47" as="sourcePoint" />
+            <mxPoint x="536" y="294.47" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xBXxck6MyoHdiVpODAMP-38" connectable="0" parent="xBXxck6MyoHdiVpODAMP-36" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="schema:nominee" vertex="1">
+          <mxGeometry relative="1" x="-0.0387" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
